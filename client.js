@@ -10,38 +10,47 @@ for (i = 1; i <= 9; i++){
   /* takes the id of the div and create 9 different images. */
   imgGalleryArray[i] = new Image()
   if (i==1) {
+    imgGalleryArray[i].classList = '"hover:scale-50 duration-700 cursor-pointer rounded max-w-[25rem]"'
     imgGalleryArray[i].src = 'assets/images/titanfall.jpg'
-    document.getElementById("Images").prepend(imgGalleryArray[i])
+    document.getElementById("Titanfall").prepend(imgGalleryArray[i])
   }
   if (i==2) {
-    imgGalleryArray[i].src = 'assets/images/titanfall.jpg'
-    document.getElementById("Images").prepend(imgGalleryArray[i])
+    imgGalleryArray[i].classList = '"hover:scale-50 duration-700 cursor-pointer rounded max-w-[25rem]"'
+    imgGalleryArray[i].src = 'assets/images/BaldursGate.jpg'
+    document.getElementById("Baldur").prepend(imgGalleryArray[i])
   }
   if (i==3) {
-    imgGalleryArray[i].src = 'assets/images/titanfall.jpg'
-    document.getElementById("Images").prepend(imgGalleryArray[i])
+    imgGalleryArray[i].classList = '"hover:scale-50 duration-700 cursor-pointer rounded max-w-[25rem]"'
+    imgGalleryArray[i].src = 'assets/images/Destiny2.jpg'
+    document.getElementById("Destiny").prepend(imgGalleryArray[i])
   }
   if (i==4) {
-    imgGalleryArray[i].src = 'assets/images/titanfall.jpg'
-    document.getElementById("Images").prepend(imgGalleryArray[i])
+    imgGalleryArray[i].classList = '"hover:scale-50 duration-700 cursor-pointer rounded max-w-[25rem]"'
+    imgGalleryArray[i].src = 'assets/images/SpiderMan2.jpg'
+    document.getElementById("Spider-Man").prepend(imgGalleryArray[i])
   }
   if (i==5) {
-    imgGalleryArray[i].src = 'assets/images/titanfall.jpg'
-    document.getElementById("Images").prepend(imgGalleryArray[i])
+    imgGalleryArray[i].classList = '"hover:scale-50 duration-700 cursor-pointer rounded max-w-[25rem]"'
+    imgGalleryArray[i].src = 'assets/images/StarWars.jpg'
+    document.getElementById("Star-Wars").prepend(imgGalleryArray[i])
   }
   if (i==6) {
-    imgGalleryArray[i].src = 'assets/images/titanfall.jpg'
-    document.getElementById("Images").prepend(imgGalleryArray[i])
+    imgGalleryArray[i].classList = '"hover:scale-50 duration-700 cursor-pointer rounded max-w-[25rem]"'
+    imgGalleryArray[i].src = 'assets/images/Umbra.jpg'
+    document.getElementById("Warframe").prepend(imgGalleryArray[i])
   }
   if (i==7) {
+    imgGalleryArray[i].classList = '"hover:scale-50 duration-700 cursor-pointer rounded max-w-[25rem]"'
     imgGalleryArray[i].src = 'assets/images/titanfall.jpg'
     document.getElementById("Images").prepend(imgGalleryArray[i])
   }
   if (i==8) {
+    imgGalleryArray[i].classList = '"hover:scale-50 duration-700 cursor-pointer rounded max-w-[25rem]"'
     imgGalleryArray[i].src = 'assets/images/titanfall.jpg'
     document.getElementById("Images").prepend(imgGalleryArray[i])
   }
   if (i==9) {
+    imgGalleryArray[i].classList = '"hover:scale-50 duration-700 cursor-pointer rounded max-w-[25rem]"'
     imgGalleryArray[i].src = 'assets/images/titanfall.jpg'
     document.getElementById("Images").prepend(imgGalleryArray[i])
   }
