@@ -12,7 +12,7 @@
 - [Baldur](https://blog.playstation.com/tachyon/2023/02/f321c065cf3f405b6d0ac06fd5a550d6a95b5a5e-scaled.jpg?resize=1088%2C612&crop_strategy=smart&zoom=1.5)
 - [Spider](https://4kwallpapers.com/games/marvels-spider-man-12968.html)
 - [Warframe](https://imgur.com/a/gZ4cP79)
-- [Lego]
+- [Lego](https://www.deviantart.com/mr3210/art/LEGO-STAR-WARS-The-Skywalker-Saga-Wallpaper-924588084)
 - [League](https://stryda.gg/games/lol-esports)
 - [WoW](https://wall.alphacoders.com/big.php?i=1302314)
 - [GTFO](https://store.steampowered.com/news/app/493520/view/1699476680686965554)
