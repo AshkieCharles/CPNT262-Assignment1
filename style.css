@@ -8,7 +8,7 @@ img {
 
 /*Instead of adding this into the javascript, it would work so I just put it here instead.*/
 img:hover {
-  scale: 125%;
+  scale: 76%;
 }
 
 
@@ -22,6 +22,6 @@ h1 {
 
 h2 {
   padding-bottom: 1rem;
-  padding-top: 2rem;
+  padding-top: 1rem;
   text-align: center;
 }
