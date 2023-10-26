@@ -2,9 +2,9 @@
 ### Code Implementations:
 - 
 - 
-### Code Ducumentation
+### Code Journal
 - The reason why are all the images are named from 1-9 is because it makes it easier for my to create a for loop with only the inter going up rather than a random list of names. Because if it was names I would have to create a list and create a loop within a loop to prevent the same name from appearing twice which I think is too hard for now but I do have an idea on how you would do it.
-- 
+- So I didn't read the rubric that closely and failed to see that I needed an array of objects for the loop! So I asked for some assistance from Edward on how he did his.
 
 ### Attributions 
 # Images
@@ -20,3 +20,4 @@
 
 # Code 
 - [Append](https://stackoverflow.com/a/2735894)
+
