@@ -19,3 +19,9 @@ img:hover {
 h1 {
  text-align: center;
 }
+
+h2 {
+  padding-bottom: 1rem;
+  padding-top: 2rem;
+  text-align: center;
+}

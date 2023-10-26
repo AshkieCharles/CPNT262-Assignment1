@@ -14,45 +14,45 @@ for (i = 1; i <= 9; i++){
     imgGalleryArray[i].src = 'assets/images/titanfall.jpg'
     document.getElementById("Titanfall").prepend(imgGalleryArray[i])
   }
-  if (i==2) {
+  else if (i==2) {
     imgGalleryArray[i].classList = '"hover:scale-50 duration-700 cursor-pointer rounded max-w-[25rem]"'
     imgGalleryArray[i].src = 'assets/images/BaldursGate.jpg'
     document.getElementById("Baldur").prepend(imgGalleryArray[i])
   }
-  if (i==3) {
+  else if (i==3) {
     imgGalleryArray[i].classList = '"hover:scale-50 duration-700 cursor-pointer rounded max-w-[25rem]"'
     imgGalleryArray[i].src = 'assets/images/Destiny2.jpg'
     document.getElementById("Destiny").prepend(imgGalleryArray[i])
   }
-  if (i==4) {
+  else if (i==4) {
     imgGalleryArray[i].classList = '"hover:scale-50 duration-700 cursor-pointer rounded max-w-[25rem]"'
     imgGalleryArray[i].src = 'assets/images/SpiderMan2.jpg'
     document.getElementById("Spider-Man").prepend(imgGalleryArray[i])
   }
-  if (i==5) {
+  else if (i==5) {
     imgGalleryArray[i].classList = '"hover:scale-50 duration-700 cursor-pointer rounded max-w-[25rem]"'
     imgGalleryArray[i].src = 'assets/images/StarWars.jpg'
     document.getElementById("Star-Wars").prepend(imgGalleryArray[i])
   }
-  if (i==6) {
+  else if (i==6) {
     imgGalleryArray[i].classList = '"hover:scale-50 duration-700 cursor-pointer rounded max-w-[25rem]"'
     imgGalleryArray[i].src = 'assets/images/Umbra.jpg'
     document.getElementById("Warframe").prepend(imgGalleryArray[i])
   }
-  if (i==7) {
+  else if (i==7) {
     imgGalleryArray[i].classList = '"hover:scale-50 duration-700 cursor-pointer rounded max-w-[25rem]"'
-    imgGalleryArray[i].src = 'assets/images/titanfall.jpg'
-    document.getElementById("Images").prepend(imgGalleryArray[i])
+    imgGalleryArray[i].src = 'assets/images/WoW.jpg'
+    document.getElementById("WoW").prepend(imgGalleryArray[i])
   }
-  if (i==8) {
+  else if (i==8) {
     imgGalleryArray[i].classList = '"hover:scale-50 duration-700 cursor-pointer rounded max-w-[25rem]"'
-    imgGalleryArray[i].src = 'assets/images/titanfall.jpg'
-    document.getElementById("Images").prepend(imgGalleryArray[i])
+    imgGalleryArray[i].src = 'assets/images/GTFO.jpg'
+    document.getElementById("GTFO").prepend(imgGalleryArray[i])
   }
-  if (i==9) {
+  else if (i==9) {
     imgGalleryArray[i].classList = '"hover:scale-50 duration-700 cursor-pointer rounded max-w-[25rem]"'
-    imgGalleryArray[i].src = 'assets/images/titanfall.jpg'
-    document.getElementById("Images").prepend(imgGalleryArray[i])
+    imgGalleryArray[i].src = 'assets/images/League.jpg'
+    document.getElementById("LoL").prepend(imgGalleryArray[i])
   }
 
  
