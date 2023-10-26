@@ -7,6 +7,7 @@
 - 
 
 ### Attributions 
+# Images
 - [Titanfall](https://images.app.goo.gl/htg1ZeMyFrsepNhx5)
 - [Destiny](https://www.destinypedia.com/The_Final_Shape#/media/File:FinalShapePoster1.jpg)
 - [Baldur](https://blog.playstation.com/tachyon/2023/02/f321c065cf3f405b6d0ac06fd5a550d6a95b5a5e-scaled.jpg?resize=1088%2C612&crop_strategy=smart&zoom=1.5)
@@ -16,3 +17,6 @@
 - [League](https://stryda.gg/games/lol-esports)
 - [WoW](https://wall.alphacoders.com/big.php?i=1302314)
 - [GTFO](https://store.steampowered.com/news/app/493520/view/1699476680686965554)
+
+# Code 
+- [Append](https://stackoverflow.com/a/2735894)

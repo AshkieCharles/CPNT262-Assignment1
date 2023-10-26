@@ -1,3 +1,4 @@
+"use strict";
 function Menu(e){
   /* TO be able to pull down the menu when user clicks*/
   let list = document.querySelector('ul');
@@ -6,7 +7,7 @@ function Menu(e){
 }
 const imgGalleryArray = new Array()
 
-for (i = 1; i <= 9; i++){
+for (let i = 1; i <= 9; i++){
   /* takes the id of the div and create 9 different images. */
   imgGalleryArray[i] = new Image()
   if (i==1) {
@@ -60,4 +61,3 @@ for (i = 1; i <= 9; i++){
 
 
 
-/*Images.innerHTML += "<div><img class=\"hover:scale-125 duration-700 cursor-pointer rounded max-w-[25rem]\"src= /assets/images/"+i+".jpg></div>"; */
