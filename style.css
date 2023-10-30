@@ -53,8 +53,9 @@ h2 {
 #About-Me {
   margin: auto;
   display: flex;
-  max-width: 100ch;
+  max-width: 50ch;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
 }
 
 #Gallery-Image {
@@ -63,6 +64,21 @@ h2 {
 
 #navigation {
   font-family: 'Potta One', 'Courier New', Courier, monospace;
-
 }
 
+
+#Contact-us {
+margin-bottom: 10rem;  
+}
+
+@media only screen and (max-width: 550px) {
+  #About-Me {
+    margin: auto;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    display: flex;
+    max-width: 50ch;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+  }
+}
