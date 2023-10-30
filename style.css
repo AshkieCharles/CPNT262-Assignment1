@@ -31,12 +31,29 @@ h2 {
   display: flex;
   background-color: rgb(255, 0, 0);
   margin: auto;
+
 }
 
 .clickingButton {
   display: flex;
   margin: auto;
+  margin-top: 5rem;
   background-color: red;
   border: 5px;
   border-style:inherit;
+  margin-bottom: 1rem;
+}
+
+.gallery-title {
+  font-size: 30px;
+}
+
+.Gallery-Image {
+  margin-bottom: 5rem;
+}
+
+#About-Me {
+  margin: auto;
+  display: flex;
+  max-width: 100ch;
 }
