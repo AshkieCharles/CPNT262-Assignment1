@@ -1,0 +1,29 @@
+#Contact-us h2 {
+  font-size: 30px;
+}
+
+
+input {
+  background-color: aliceblue;
+  width: 50%;
+  margin-left: 25%;
+  font-size: 25px;
+  padding: 16px 16px;
+  border-radius: 12px;
+  border-color: black;
+  margin-bottom: 10px;
+}
+
+textarea {
+  background-color: aliceblue;
+  width: 75%;
+  margin-left: 10%;
+  font-size: 25px;
+  padding: 16px 16px;
+  border-radius: 12px;
+}
+
+
+.contact-button {
+
+}
