@@ -3,7 +3,7 @@
 }
 
 
-input {
+.contact-input {
   background-color: aliceblue;
   width: 50%;
   margin-left: 25%;
@@ -14,7 +14,7 @@ input {
   margin-bottom: 10px;
 }
 
-textarea {
+.text-areaform {
   background-color: aliceblue;
   width: 75%;
   margin-left: 11%;

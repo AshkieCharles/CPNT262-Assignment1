@@ -7,7 +7,7 @@
 - So I didn't read the rubric that closely and failed to see that I needed an array of objects for the loop! So I asked for some assistance from Edward on how he did his.
 - After forgetting the strict mode in javascript I placed it all the way to the top, and low and behold it broke my images. It took me 20 minutes to figure out that the problem  was my for loop have a (i = 1) instead of (let i = 1). After changing that it fixed everything.
 - For some reason the margin auto without the margin left and right won't prevent the text from touching the edge of the screen. This is why I added a new query selector that has a margin left and right even with margin auto to prevent the words from hitting the edge of the screen.
-
+- Was trying to figure out why my css wasn't working when I realized it was breaking because I left a css class empty and kept breaking it. Or so I thought but it was the classes and id's thats been breaking my css.
 ### Attributions 
 # Images
 - [Titanfall](https://images.app.goo.gl/htg1ZeMyFrsepNhx5)
