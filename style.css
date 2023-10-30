@@ -1,6 +1,6 @@
-* {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&family=Trade+Winds&display=swap');
+
+
 
 img {
   margin-bottom: 20px;
@@ -12,13 +12,10 @@ img:hover {
 }
 
 
-
-#Gallery-Image {
-  padding-top: 0%;
-}
 h1 {
  margin-top: 5rem;
  text-align: center;
+ font-size: 30px;
 }
 
 h2 {
@@ -49,8 +46,19 @@ h2 {
 }
 
 
+
 #About-Me {
   margin: auto;
   display: flex;
   max-width: 100ch;
 }
+
+#Gallery-Image {
+  font-family: 'Trade Winds', sans-serif;
+}
+
+#navigation {
+  font-family: 'Potta One', 'Courier New', Courier, monospace;
+
+}
+
