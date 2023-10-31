@@ -11,14 +11,34 @@
   padding: 16px 16px;
   border-radius: 12px;
   border-color: black;
+  border: solid;
   margin-bottom: 10px;
 }
 
 .text-areaform {
   background-color: aliceblue;
   width: 75%;
-  margin-left: 11%;
+  margin-left: 12%;
   font-size: 25px;
   padding: 16px 16px;
+  border: solid;
   border-radius: 12px;
+  margin-bottom: 10px;
+}
+
+.contact-button{
+  background-color: aliceblue;
+  border: solid;
+  border-color: black;
+  border-radius: 12px;
+  font-size: 20px;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  padding: 12px 20px;
+}
+
+button:hover {
+  opacity: 50%;
+  cursor: pointer;
 }
