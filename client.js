@@ -58,7 +58,7 @@ for (let i = 1; i <= 9; i++){
 
  
 }
-
+ /* Prevents the refesh of the page on submitting forms. */
 function notRefresh(b){
   event.preventDefault()
   alert('Form Submitted')
