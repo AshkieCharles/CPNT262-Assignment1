@@ -44,9 +44,18 @@
   cursor: pointer;
 }
 
+.contact-button:active {
+  background-color: blue;
+  color: black;
+  opacity: 100%;
+}
+
+
 .clickingButton {
   background-color: red;
 }
+
+
 
 .favouriteLanguage {
   background-color: aliceblue;
@@ -59,5 +68,16 @@
   padding: 12px 20px;
   margin-top: 1rem;
   margin-left: 3rem;
-  
+}
+
+.favouriteLanguage:hover {
+  background-color: black;
+  color: white;
+  opacity: 78%;
+}
+
+.favouriteLanguage:active {
+  background-color: white;
+  color: black;
+  border-style: dotted;
 }
