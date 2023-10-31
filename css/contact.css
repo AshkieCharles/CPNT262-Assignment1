@@ -43,3 +43,7 @@
   opacity: 50%;
   cursor: pointer;
 }
+
+.clickingButton {
+  background-color: red;
+}
