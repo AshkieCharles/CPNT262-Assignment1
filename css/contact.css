@@ -1,4 +1,4 @@
-#Contact-us h2 {
+.Contact-us h2 {
   font-size: 5rem;
 }
 
@@ -36,9 +36,10 @@
   text-align: center;
   display: flex;
   padding: 12px 20px;
+  
 }
 
-button:hover {
+.contact-button:hover {
   opacity: 50%;
   cursor: pointer;
 }

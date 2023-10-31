@@ -59,5 +59,7 @@ for (let i = 1; i <= 9; i++){
  
 }
 
-
-
+function notRefresh(b){
+  event.preventDefault()
+  alert('Form Submitted')
+}
