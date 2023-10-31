@@ -31,19 +31,24 @@ h2 {
 }
 
 #clickingButton {
+  background-color: aliceblue;
   display: flex;
   margin: auto;
   margin-top: 5rem;
-  border:solid 3px;
+  border:solid 3px black;
   margin-bottom: 1rem;
-  background-color: rgb(5, 245, 37);
 }
 
 #clickingButton:hover{
   background-color: black;
   color: white;
-  border:solid 3px blue;
-  
+  opacity: 78%;
+}
+
+#clickingButton:active {
+  background-color: white;
+  color: black;
+  border-style: dotted;
 
 }
 

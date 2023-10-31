@@ -57,29 +57,7 @@
   color: black;
   border-style: dotted;
 }
-.clickingButton {
-  background-color: aliceblue;
-  border: solid;
-  border-color: black;
-  border-radius: 12px;
-  font-size: 20px;
-  text-align: center;
-  display: flex;
-  padding: 12px 20px;
-  margin: auto;
-}
 
-.clickingButton:hover {
-  background-color: black;
-  color: white;
-  opacity: 78%;
-}
-
-.clickingButton:active {
-  background-color: white;
-  color: black;
-  border-style: dotted;
-}
 
 
 .contact-button {
