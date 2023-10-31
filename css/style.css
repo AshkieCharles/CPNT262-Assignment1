@@ -27,18 +27,25 @@ h2 {
   display: flex;
   background-color: rgb(255, 0, 0);
   margin: auto;
-
 }
 
-.clickingButton {
+#clickingButton {
   display: flex;
   margin: auto;
   margin-top: 5rem;
-  background-color: red;
-  border: 5px;
-  border-style:inherit;
+  border:solid 3px;
   margin-bottom: 1rem;
+  background-color: red;
 }
+
+#clickingButton:hover{
+  background-color: black;
+  color: white;
+  border:solid 3px blue;
+  
+
+}
+
 
 #gallery-title {
   font-size: 30px;
@@ -100,4 +107,3 @@ footer {
 
   }
 }
-
