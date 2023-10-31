@@ -15,6 +15,7 @@
 <body>
   <nav id="navigation" class="p-5 bg-white shadow text-black lg:flex lg:items-center lg:justify-between">
     <span class="text-5xl lg:hidden cursor-pointer">
+      <!-- Used ion icons for my hamburger menu that I took from my old codes. This makes it an easy hamburger menu as when the user clicks on the icon it replaces the name class to an exit as the function start running.-->
       <ion-icon name="menu" onclick="Menu(this)"></ion-icon>
     </span>
     <ul class="lg:flex lg:items-center m-auto justify-around z-[1] lg:z-auto lg:static absolute bg-white w-full left-[0] lg:auto lg:my-0 lg:pl-0 pl-9 lg:opacity-100 opacity-0 top-[-400px] transition-all ease-in duration-500">
@@ -33,7 +34,6 @@
       hover:transition ease-in hover:duration-500 duration-500 hover:bg-teal-400 hover:rounded-lg p-2 hover:text-red-700">
         <a href="#ajxForm" class="text-2xl hover:p " >Contact Me</a>
       </li>
-      <!-- I don't know its giving a yellow error but after validating it from different websites this should not happen.-->
     </ul>
   </nav>
   <h1 id="gallery-title" >My Favourite Games</h1>
@@ -81,7 +81,7 @@
   </div>
 
   <button id="clickingButton" type="button" >Click Me!</button>
-
+<!-- I used w3schools for the action page to make my life easier with making sure only one radio button can be clicked.-->
   <form id="radio-form" action="/action_page.php" onsubmit="notRefresh()">
     <p>Select Your Favourite Language:</p>
     <input type="radio" id="html" name="fav_language" required value="HTML">
@@ -95,6 +95,7 @@
   </form>
 
 
+  <!-- Used asjx method to prevent the page from resfreshing when using the submit button. When the user clicks on the submit button the current function runs.-->
   <form class="Contact-us" id="ajxForm" onsubmit="notRefresh()">
     <h2>Contact Me</h2>
     <input class="contact-input" type="text" name="First" placeholder="First Name" autocomplete="off" required>

@@ -11,6 +11,7 @@ for (let i = 1; i <= 9; i++){
   /* takes the id of the div and create 9 different images. */
   imgGalleryArray[i] = new Image()
   if (i==1) {
+    /* Adds tailwind css when the image is generated */
     imgGalleryArray[i].classList = '"hover:scale-50 duration-700 cursor-pointer rounded max-w-[25rem]"'
     imgGalleryArray[i].src = 'assets/images/titanfall.jpg'
     document.getElementById("Titanfall").prepend(imgGalleryArray[i])
