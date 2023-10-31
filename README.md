@@ -26,6 +26,7 @@
 # Code 
 - [Append](https://stackoverflow.com/a/2735894)
 - [No-Refresh](https://youtu.be/eqSafEsK95w?si=ffUtvlA8Lra2ZRLy)
+- [Radio](https://www.w3schools.com/action_page.php)
 
 # Links
 - [GH Repo](https://github.com/AshkieCharles/CPNT262-Assignment1.git)

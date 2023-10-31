@@ -47,3 +47,17 @@
 .clickingButton {
   background-color: red;
 }
+
+.favouriteLanguage {
+  background-color: aliceblue;
+  border: solid;
+  border-color: black;
+  border-radius: 12px;
+  font-size: 20px;
+  text-align: center;
+  display: flex;
+  padding: 12px 20px;
+  margin-top: 1rem;
+  margin-left: 3rem;
+  
+}
